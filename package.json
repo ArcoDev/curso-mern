@@ -1,0 +1,9 @@
+{
+  "name": "arcodev-back",
+  "version": "0.0.1",
+  "description": "Backend para la web www.arcodev.com",
+  "main": "index.js",
+  "repository": "https://github.com/ArcoDev/curso-mern.git",
+  "author": "arcodev",
+  "license": "MIT"
+}
